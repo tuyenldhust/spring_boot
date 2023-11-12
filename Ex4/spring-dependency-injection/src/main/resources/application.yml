@@ -1,2 +1,3 @@
-init_money: 100000
-log_path: D:\HomeWork\Ex4\spring-dependency-injection\src\log.txt
+init:
+  money: 100000
+  log_path: log.txt

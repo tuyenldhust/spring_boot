@@ -1,3 +1,0 @@
-Account Number: anhpt
-Pin: 123
-Money: 200000
